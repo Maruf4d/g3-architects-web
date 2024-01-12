@@ -29,7 +29,7 @@ nav ul a{
     margin-right: 2em;
 }
 /* banner styles */
-.banner{
+.banner-contain{
     max-width: 800;
     text-align: center;
 }
@@ -50,4 +50,3 @@ nav ul a{
     border-radius: 8px;
     background: #FF900E;
 }
-
